@@ -1,4 +1,4 @@
-# njainx.github.io
+# jaekyoungahn.github.io
 
 website for CF:G competition
 
