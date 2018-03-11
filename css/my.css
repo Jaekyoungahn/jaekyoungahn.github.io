@@ -1,6 +1,15 @@
 .card-deck {
+    /* This is a comment */
+
+    /* You can control the spaces between card-deck and page border */
     /* padding: 2%; */
     margin: 0% 2%;
     /* See this link for what padding and margin means: https://www.w3schools.com/Css/css_boxmodel.asp */
+    /* You can specify top, right, left, bottom of padding and margin: https://www.w3schools.com/Css/css_margin.asp */
     /* See this link for what units you can use (eg. %, pixel, view width): https://www.w3schools.com/CSSref/css_units.asp */
+    
+    /* alternatively, you can specify a maximum width to be reached (not fixed width because mobile devices!) */
+    /* max-width: 1080px;
+    margin: auto; */
+    /* the auto value for margin means this div will distribute the space on left and right evenly (centered) */
 }
